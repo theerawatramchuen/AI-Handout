@@ -26,6 +26,8 @@ Rectifyให้ค่า 0 เมื่อ Sum of Product ได้ค่าต
 
 # How do Neural Networks work?
 ตัวอย่างที่ยกมาเป็นการ neural Network ที่ถูกเทรนมาแล้วเพื่อให้เสนอราคาบ้านที่เหมาะสมจากข้อมูลของบ้าน
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/The%20Activation%20Function%20House%20Price.jpg)
+
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20work%2001.jpg)
 
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20work%2002.jpg)
