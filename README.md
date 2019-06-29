@@ -61,3 +61,5 @@ Rectifyให้ค่า 0 เมื่อ Sum of Product ได้ค่าต
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20Learn%2011.jpg)
 
 # Gradient Descent
+คือวิธีที่หาค่า weight ที่ให้ค่า C น้อยที่สุด และนั่นคือจุดที่ Neurual Network ให้ค่าได้ใกล้เคียงกับข้อมูที่ใช้ train 
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Gradient%20Descent%2001.jpg)
