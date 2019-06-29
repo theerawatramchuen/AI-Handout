@@ -19,7 +19,7 @@ excel 1 row
 Output เป็นราคา คะแนนสอบ เปอร์เซนต์ของเสีย เป็นใข่หรือไม่ไช่ หรือจัดอยู่ในกลุ่มไหน
 Weight  เป็นส่วนที่สำคัญมี่ทำให้ Neuton เรียนรู้และนำไปปรับใช้ให้เกิด output ด้วย activation function
 # The Activation Function
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/The%20Activation%20Function.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/The%20Activation%20Function.jpg)
 รูปแบบเอาท์พุท y ที่แปรผันตามค่า Sum of Product แกน x 
 ความน่าจะเป็น sigmoid 
 Rectifyให้ค่า 0 เมื่อ Sum of Product ได้ค่าติดลบ
