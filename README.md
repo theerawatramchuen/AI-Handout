@@ -26,34 +26,34 @@ Rectifyให้ค่า 0 เมื่อ Sum of Product ได้ค่าต
 
 # How do Neural Networks work?
 ตัวอย่างที่ยกมาเป็นการ neural Network ที่ถูกเทรนมาแล้วเพื่อให้เสนอราคาบ้านที่เหมาะสมจากข้อมูลของบ้าน
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/The%20Activation%20Function%20House%20Price.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/The%20Activation%20Function%20House%20Price.jpg)
 
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20work%2001.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20work%2001.jpg)
 
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20work%2002.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20work%2002.jpg)
 
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20work%2003.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20work%2003.jpg)
 
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20work%2004.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20work%2004.jpg)
 
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20work%2005.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20work%2005.jpg)
 
 # How do Neural Networks Learn?
 การให้คอมฯประมวลผลจากข้อมูลเข้าแล้วส่งข้อมูลออกให้เรามีสองรูปแบบวิธี หนึ่งคือเราสร้างโปรแกรมโดยเตรียมเงื่อนไขกฏเกณฑ์ทุกอย่างรวมถึงความสัมพันธ์ของข้อมูลเข้าและออก สองสร้าง Nerual Network
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20Learn%2001.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20Learn%2001.jpg)
 
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20Learn%2002.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20Learn%2002.jpg)
 
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20Learn%2003.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20Learn%2003.jpg)
 
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20Learn%2004.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20Learn%2004.jpg)
 
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20Learn%2005.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20Learn%2005.jpg)
 
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20Learn%2006.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20Learn%2006.jpg)
 
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20Learn%2007.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20Learn%2007.jpg)
 
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20Learn%2008.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20Learn%2008.jpg)
 
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20Learn%2009.jpg)
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/How%20do%20Neural%20Networks%20Learn%2009.jpg)
