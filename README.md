@@ -98,3 +98,4 @@ Rectifyให้ค่า 0 เมื่อ Sum of Product ได้ค่าต
 https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
 
 # Plan of Attack
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2001.jpg)
