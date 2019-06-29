@@ -39,3 +39,5 @@ Rectifyให้ค่า 0 เมื่อ Sum of Product ได้ค่าต
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20work%2005.jpg)
 
 # How do Neural Networks Learn?
+การให้คอมฯประมวลผลจากข้อมูลเข้าแล้วส่งข้อมูลออกให้เรามีสองรูปแบบวิธี หนึ่งคือเราสร้างโปรแกรมโดยเตรียมเงื่อนไขกฏเกณฑ์ทุกอย่างรวมถึงความสัมพันธ์ของข้อมูลเข้าและออก สองสร้าง Nerual Network
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20Learn%2001.jpg)
