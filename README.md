@@ -53,3 +53,5 @@ Rectifyให้ค่า 0 เมื่อ Sum of Product ได้ค่าต
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20Learn%2006.jpg)
 
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20Learn%2007.jpg)
+
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20Learn%2008.jpg)
