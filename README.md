@@ -24,4 +24,4 @@ Weight  เป็นส่วนที่สำคัญมี่ทำให้
 ความน่าจะเป็น sigmoid 
 Rectifyให้ค่า 0 เมื่อ Sum of Product ได้ค่าติดลบ
 
-https://github.com/theerawatramchuen/AI-Handout/blob/master/The%20Activation%20Function.jpg
+# How do Neural Networks work?
