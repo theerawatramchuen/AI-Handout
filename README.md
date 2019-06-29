@@ -37,3 +37,5 @@ Rectifyให้ค่า 0 เมื่อ Sum of Product ได้ค่าต
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20work%2004.jpg)
 
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/How%20do%20Neural%20Networks%20work%2005.jpg)
+
+# How do Neural Networks Learn?
