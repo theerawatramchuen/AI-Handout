@@ -64,8 +64,10 @@ Rectifyให้ค่า 0 เมื่อ Sum of Product ได้ค่าต
 คือวิธีที่หาค่า weight ที่ให้ค่า C น้อยที่สุด และนั่นคือจุดที่ Neurual Network ให้ค่าได้ใกล้เคียงกับข้อมูที่ใช้ train 
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Gradient%20Descent%2001.jpg)
 
-![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Gradient%20Descent%2002.jpg)
-
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Gradient%20Descent%2004.jpg)
 
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Gradient%20Descent%2002.jpg)
+
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Gradient%20Descent%2003.jpg)
+
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Gradient%20Descent%2005.jpg)
