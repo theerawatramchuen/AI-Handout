@@ -71,3 +71,8 @@ Rectifyให้ค่า 0 เมื่อ Sum of Product ได้ค่าต
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Gradient%20Descent%2003.jpg)
 
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Gradient%20Descent%2005.jpg)
+
+# Stochastic Gradient Descent
+ในกรณีที่ cost function ของชุดข้อมูลที่จะใช้สอน Neurual Network ไม่ได้เป็นผลต่างกำลังสอง ซึ่งมักจะพบกับข้อมูลที่มีความซับซ้อนในความสัมพันธ์กับข้อมูลขาออก y
+
+![alt text](
