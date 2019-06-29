@@ -115,3 +115,4 @@ https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neura
 
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2008.jpg)
 
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2009.jpg)
