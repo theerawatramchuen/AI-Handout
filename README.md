@@ -86,3 +86,4 @@ Rectifyให้ค่า 0 เมื่อ Sum of Product ได้ค่าต
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Stochastic%20Gradient%20Descent%2005.jpg)
 
 # Backpropagation
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Backpropagation%2001.jpg)
