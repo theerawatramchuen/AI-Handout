@@ -93,3 +93,5 @@ Rectifyให้ค่า 0 เมื่อ Sum of Product ได้ค่าต
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Backpropagation%2002.jpg)
 
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Backpropagation%2003.jpg)
+
+![alt text](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
