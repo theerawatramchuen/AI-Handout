@@ -6,6 +6,9 @@
 
 ที่ถูกเรียกว่า deep learning เพราะว่ามันจะถูกจับตั้ง ชั้นบนสุดจะเป็นอินพุท ส่วนเอาท์พุทจะอยู่ด้านล่าง
 
+แนะนำเว็ปบล็อกภาษาไทยที่เจาะลึก algoritm ของ Deep Learning 
+https://phyblas.hinaboshi.com/umaki00
+
 # Plan of Attack
 ให้มองเห็นการทำงานของ Neural Network ก่อน ซึ่งจะทำให้เข้าใจได้ดีกว่าที่จะ ไปเริ่มที่ขบวนการเรียนรู้ของ Neural Network 
 
