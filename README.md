@@ -156,3 +156,5 @@ Feature Extraction
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2021.jpg)
 
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2022.jpg)
+
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2023.jpg)
