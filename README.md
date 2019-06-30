@@ -146,3 +146,9 @@ Feature Extraction
 แนวคิดของ CNN นั้นค่อนข้างเป็นแนวคิดที่ดีมาก แต่สิ่งที่ซับซ้อนของมันคือระบบการคำนวณที่สอดคล้องกับ Concept ของมันเองและต้องมีคณิตศาสตร์มารองรับ โดยการคำนวณตามแนวคิดนี้ใช้หลักการเดียวกันกับ คอนโวลูชันเชิงพื้นที่ (Spatial Convolution) ในการทำงานด้าน Image Processing
 การคำนวณนี้จะเริ่มจากการกำหนดค่าใน ตัวกรอง (filter) หรือ เคอร์เนล
 (kernel) ในที่นี้เค้าเรียก Feature Detector ที่ช่วยดึงคุณลักษณะที่ใช้ในการรู้จำวัตถุออก โดยปกติตัวกรอง/เคอร์เนลอันหนึ่งจะดึงคุณลักษณะที่สนใจออกมาได้หนึ่งอย่าง เราจึงจำเป็นต้องใช้ตัวกรองหลายตัวกรองด้วย เพื่อหาคุณลักษณะทางพื้นที่หลายอย่างประกอบกัน เราแค่กำหนดจำนวน feature map เท่านั้น ส่วน feature detector ขบวนการทำ backpropergation จะจัดการปรับแต่งให้เราเอง 
+
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2018.jpg)
+
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2019.jpg)
+
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2020.jpg)
