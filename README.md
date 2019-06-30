@@ -173,5 +173,11 @@ http://scs.ryerson.ca/~aharley/vis/conv/flat.html
 
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2029.jpg)
 
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2030.jpg)
+
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2031.jpg)
+
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2032.jpg)
+
 
 
