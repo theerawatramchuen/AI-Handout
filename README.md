@@ -101,6 +101,15 @@ https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neura
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2001.jpg)
 
 # What are convolution neural network?
+Convolutional Neural Network (CNN) หรือ โครงข่ายประสาทแบบคอนโวลูชัน เป็นโครงข่ายประสาทเทียมหนึ่งในกลุ่ม bio-inspired โดยที่ CNN จะจำลองการมองเห็นของมนุษย์ที่มองพื้นที่เป็นที่ย่อยๆ และนำกลุ่มของพื้นที่ย่อยๆมาผสานกัน เพื่อดูว่าสิ่งที่เห็นอยู่เป็นอะไรกันแน่
+
+การมองพื้นที่ย่อยของมนุษย์จะมีการแยกคุณลักษณะ (feature) ของพื้นที่
+ย่อยนั้น เช่น ลายเส้น และการตัดกันของสี ซึ่งการที่มนุษย์รู้ว่าพื้นที่ตรงนี้เป็นเส้นตรงหรือสีตัดกัน เพราะมนุษย์ดูทั้งจุดที่สนใจและบริเวณรอบ ๆ ประกอบกัน
+
+![alt text](https://cdn-images-1.medium.com/max/1600/1*9HPPZjXOem6afR9iSZgVcA.png)
+
+ถ้าเราเปรียบว่ากรอบสีเหลี่ยมสีเหลืองนั้น คือพื้นที่ที่มนุษย์กำลังให้ความสนใจอยู่ แต่เราสามารถรับรู้ได้ว่าสิ่งนี้คือหนู เพราะเรากวาดสายตามองรอบๆ
+
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2002.jpg)
 
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/CNN%2003.jpg)
