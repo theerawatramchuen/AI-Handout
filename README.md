@@ -94,6 +94,9 @@ Rectifyให้ค่า 0 เมื่อ Sum of Product ได้ค่าต
 
 ![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Backpropagation%2003.jpg)
 
+Bussiness Problem Description 
+![alt text](https://github.com/theerawatramchuen/AI-Handout/blob/master/Slides/Backpropagation%2004.jpg)
+
 # Guild to Convolutional Neural Networks (CNN)
 https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
 
